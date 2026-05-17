@@ -57,6 +57,7 @@ Competed across 9 challenge categories in the NCL Individual CTF, tackling every
 ## 📄 Scouting Reports
 
 > [2026 Spring NCL Team Games](https://s3.us-east-1.amazonaws.com/user-data.production.cyberskyline.com/reports/69c29f1c73468a4bf2d6dfb5/CQG7DXMX84JX.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAUDF4ZW3OYCTQP3HR%2F20260517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260517T232027Z&X-Amz-Expires=600&X-Amz-Signature=83cfc3e233d8b3583f48d2306fd2324f60622b471e5c2c0e4042709b4496e749&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
+> 
 > [2026 Spring NCL Individual games](https://s3.us-east-1.amazonaws.com/user-data.production.cyberskyline.com/reports/69c29f1c73468a4bf2d6dfb5/CY221ACM8G80.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAUDF4ZW3OYCTQP3HR%2F20260517%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260517T231634Z&X-Amz-Expires=600&X-Amz-Signature=7938c5334589bdb966b60379778b7996200534e5a61f947632ce28aaeae6dc1f&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject)
 
 ---
